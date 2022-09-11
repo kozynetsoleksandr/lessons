@@ -1,0 +1,11 @@
+@import 'reset.css';
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.link {
+    text-decoration: none;
+    color: #000;
+}
